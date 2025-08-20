@@ -1,6 +1,4 @@
 package dayeight.abstraction;
-
-
 public class Square extends Shape{
 	private float side;
 	public Square()
