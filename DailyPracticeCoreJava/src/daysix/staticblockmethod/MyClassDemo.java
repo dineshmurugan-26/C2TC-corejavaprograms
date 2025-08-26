@@ -1,4 +1,4 @@
-package day6.staticblockmethod;
+package daysix.staticblockmethod;
 
 public class MyClassDemo {
 

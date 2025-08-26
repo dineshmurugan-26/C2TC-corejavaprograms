@@ -1,4 +1,4 @@
-package day6.usingfinal;
+package daysix.usingfinal;
 
 final class FinalClass {
 	void show() {

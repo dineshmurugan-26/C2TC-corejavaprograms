@@ -1,4 +1,4 @@
-package day6.usingfinal;
+package daysix.usingfinal;
 
 public class FinalMethodClassTest extends FinalMethodClass  {
 	  // Compile time error because we cannot override the final method 

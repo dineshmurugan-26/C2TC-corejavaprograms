@@ -1,4 +1,4 @@
-package day6.usingfinal;
+package daysix.usingfinal;
 
 class FinalMethodClass {
 	// constructor
